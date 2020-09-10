@@ -1,8 +1,16 @@
 a {
     display: block;
+    margin: 10px 0 0 0;
     background-image: linear-gradient(black, gray);
     text-decoration: none;
     text-align: center;
-    color: gold;
     font-size: 30px;
+}
+
+#MA {
+    color: gold;
+}
+
+#TLE {
+    color: red;
 }
