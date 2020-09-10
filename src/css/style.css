@@ -1,0 +1,8 @@
+a {
+    display: block;
+    background-image: linear-gradient(black, gray);
+    text-decoration: none;
+    text-align: center;
+    color: gold;
+    font-size: 30px;
+}
